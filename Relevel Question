@@ -1,0 +1,65 @@
+// C++ program to implement the approach
+#include <bits/stdc++.h>
+using namespace std;
+
+// Function to print the maximum number
+long long printMaxNum(long long num)
+{
+    // Initialising hash array
+    int hash[10] = {0};
+    long long n = num < 0 ? num * -1 : num;
+    long long ans = 0;
+    while (n)
+    {
+        hash[n % 10]++;
+        n = n / 10;
+    }
+
+    // If positive number
+    if (num > 0)
+    {
+        for (int i = 9; i >= 0; i--)
+            for (int j = 0; j < hash[i]; j++)
+                ans = ans * 10 + i;
+    }
+
+    // If negative number
+    else
+    {
+
+        // If 0 is present in the number
+        if (hash[0] > 0)
+        {
+            for (int i = 1; i < 10; i++)
+                if (hash[i] > 0)
+                {
+                    ans = i;
+                    hash[i]--;
+                    break;
+                }
+        }
+        for (int i = 0; i < 10; i++)
+            for (int j = 0; j < hash[i]; j++)
+                ans = ans * 10 + i;
+        ans = ans * -1;
+    }
+    return ans;
+}
+
+// Driver code
+int main()
+{
+    int N, M;
+    cin >> N >> M;
+
+    int ans1 = printMaxNum(N);
+    int ans2 = printMaxNum(M);
+
+    // cout << ans1 << endl;
+    // cout << ans2 << endl;
+
+    int answer = ans1 ^ ans2;
+
+    cout << answer << endl;
+    return 0;
+}
