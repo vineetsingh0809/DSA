@@ -1,0 +1,1 @@
+{"name":"Local: Burgers","url":"/home/vineetsingh/Documents/GitHub/DSA/Burgers.cpp","tests":[{"id":1666358317025,"input":"4\n2 2\n2 3\n3 2\n23 17","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/vineetsingh/Documents/GitHub/DSA/Burgers.cpp","group":"local","local":true}
