@@ -1,0 +1,1 @@
+{"name":"Local: Max minus Min","url":"/home/vineetsingh/Documents/GitHub/DSA/Max minus Min.cpp","tests":[{"id":1667214288554,"input":"4\n1 3 10\n5 6 7\n3 8 9\n2 5 6","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/vineetsingh/Documents/GitHub/DSA/Max minus Min.cpp","group":"local","local":true}
