@@ -1,0 +1,1 @@
+{"name":"Local: counting_words","url":"/home/vineetsingh/Documents/GitHub/DSA/counting_words.cpp","tests":[{"id":1667911438037,"input":"4\n1 1\n4 2\n2 4\n95 42","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/vineetsingh/Documents/GitHub/DSA/counting_words.cpp","group":"local","local":true}
