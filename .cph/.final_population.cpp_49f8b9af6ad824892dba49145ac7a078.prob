@@ -1,0 +1,1 @@
+{"name":"Local: final_population","url":"/home/vineetsingh/Documents/GitHub/DSA/final_population.cpp","tests":[{"id":1668694490170,"input":"4\n3 1 2\n2 2 2\n4 1 8\n10 1 10","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/vineetsingh/Documents/GitHub/DSA/final_population.cpp","group":"local","local":true}
