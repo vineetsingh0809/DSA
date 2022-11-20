@@ -1,0 +1,1 @@
+{"name":"Local: ticket_fine","url":"/home/vineetsingh/Documents/GitHub/DSA/ticket_fine.cpp","tests":[{"id":1668756452635,"input":"4\n4 1 1\n2 10 7\n8 5 4\n9 7 0","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/vineetsingh/Documents/GitHub/DSA/ticket_fine.cpp","group":"local","local":true}
