@@ -1,0 +1,1 @@
+{"name":"Local: true_and_false_paper","url":"/home/vineetsingh/Documents/GitHub/DSA/true_and_false_paper.cpp","tests":[{"id":1669039658965,"input":"3\n1 1\n50 0\n100 76","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/vineetsingh/Documents/GitHub/DSA/true_and_false_paper.cpp","group":"local","local":true}
