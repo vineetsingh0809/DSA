@@ -1,0 +1,1 @@
+{"name":"Local: monthly_budget","url":"/home/vineetsingh/Documents/GitHub/DSA/monthly_budget.cpp","tests":[{"id":1670165666163,"input":"3\n1000 10\n250 50\n1500 50","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/vineetsingh/Documents/GitHub/DSA/monthly_budget.cpp","group":"local","local":true}
