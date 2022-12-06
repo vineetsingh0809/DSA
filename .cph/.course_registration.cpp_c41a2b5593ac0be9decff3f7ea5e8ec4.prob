@@ -1,0 +1,1 @@
+{"name":"Local: course_registration","url":"/home/addweb/Documents/GitHub/DSA/course_registration.cpp","tests":[{"id":1670242005005,"input":"3\n2 50 27\n5 40 38\n100 100 0","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/addweb/Documents/GitHub/DSA/course_registration.cpp","group":"local","local":true}
