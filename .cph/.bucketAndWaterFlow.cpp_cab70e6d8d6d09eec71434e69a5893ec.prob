@@ -1,0 +1,1 @@
+{"name":"Local: bucketAndWaterFlow","url":"/home/addweb/Documents/GitHub/DSA/bucketAndWaterFlow.cpp","tests":[{"id":1670500542069,"input":"4\n1 2 3 4 \n10 70 10 6 \n2 100 4 3\n4 3 2 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/addweb/Documents/GitHub/DSA/bucketAndWaterFlow.cpp","group":"local","local":true}
