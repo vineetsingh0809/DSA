@@ -1,0 +1,1 @@
+{"name":"Local: reach_fast","url":"/home/addweb/Documents/GitHub/DSA/reach_fast.cpp","tests":[{"id":1670848142287,"input":"4\n10 20 3\n36 36 5\n50 4 100\n30 4 2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/addweb/Documents/GitHub/DSA/reach_fast.cpp","group":"local","local":true}
