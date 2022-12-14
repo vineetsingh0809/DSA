@@ -1,0 +1,1 @@
+{"name":"Local: subscription","url":"/home/addweb/Documents/GitHub/DSA/subscription.cpp","tests":[{"id":1670918893128,"input":"3\n1 100\n12 250\n16 135","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/addweb/Documents/GitHub/DSA/subscription.cpp","group":"local","local":true}
