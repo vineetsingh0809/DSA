@@ -1,0 +1,1 @@
+{"name":"Local: scalene_triangle","url":"/home/vineetsingh/Documents/GitHub/DSA/scalene_triangle.cpp","tests":[{"id":1671367951777,"input":"4\n2 3 4\n1 2 2\n2 2 2\n3 5 6","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/vineetsingh/Documents/GitHub/DSA/scalene_triangle.cpp","group":"local","local":true}
