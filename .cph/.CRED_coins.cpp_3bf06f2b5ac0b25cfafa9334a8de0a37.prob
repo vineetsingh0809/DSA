@@ -1,0 +1,1 @@
+{"name":"Local: CRED_coins","url":"/home/addweb/Documents/GitHub/DSA/CRED_coins.cpp","tests":[{"id":1671631058053,"input":"3\n10 10\n20 4\n70 7","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/addweb/Documents/GitHub/DSA/CRED_coins.cpp","group":"local","local":true}
