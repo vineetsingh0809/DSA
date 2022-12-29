@@ -1,0 +1,1 @@
+{"name":"Local: Count the Notebooks","url":"/home/addweb/Documents/GitHub/DSA/Count the Notebooks.cpp","tests":[{"id":1672323382191,"input":"3\n1\n100\n50","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/addweb/Documents/GitHub/DSA/Count the Notebooks.cpp","group":"local","local":true}
