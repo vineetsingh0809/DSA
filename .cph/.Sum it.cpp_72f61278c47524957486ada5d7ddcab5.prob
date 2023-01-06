@@ -1,0 +1,1 @@
+{"name":"Local: Sum it","url":"/home/addweb/Documents/GitHub/DSA/Sum it.cpp","tests":[{"id":1672925639915,"input":"3\n1 2 3\n4 5 9\n2 3 6","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/addweb/Documents/GitHub/DSA/Sum it.cpp","group":"local","local":true}
