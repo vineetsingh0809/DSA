@@ -1,0 +1,1 @@
+{"name":"Local: chef_drinks_tea","url":"/home/addweb/Documents/GitHub/DSA/chef_drinks_tea.cpp","tests":[{"id":1673344227759,"input":"4\n3 3 3\n6 3 3\n5 7 2\n9 4 5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/addweb/Documents/GitHub/DSA/chef_drinks_tea.cpp","group":"local","local":true}
