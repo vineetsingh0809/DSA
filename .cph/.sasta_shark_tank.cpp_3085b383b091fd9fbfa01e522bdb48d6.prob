@@ -1,0 +1,1 @@
+{"name":"Local: sasta_shark_tank","url":"/home/addweb/Documents/GitHub/DSA/sasta_shark_tank.cpp","tests":[{"id":1673345044596,"input":"3\n100 200\n200 100\n200 500","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/addweb/Documents/GitHub/DSA/sasta_shark_tank.cpp","group":"local","local":true}
