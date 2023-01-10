@@ -1,0 +1,1 @@
+{"name":"Local: reverse_the_number","url":"/home/addweb/Documents/GitHub/DSA/reverse_the_number.cpp","tests":[{"id":1673002830184,"input":"4\n12345\n31203\n2123\n2300","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/addweb/Documents/GitHub/DSA/reverse_the_number.cpp","group":"local","local":true}
